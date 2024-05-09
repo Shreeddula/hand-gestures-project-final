@@ -1,0 +1,40 @@
+body
+{
+  color: white;
+  background:rgb(99, 9, 99);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(255, 255, 255);
+  width: 350px;
+  height: 300px; 
+}
+#emotion_name_1 
+{
+  color: rgb(255, 255, 255);
+}
+.em
+{
+  font-size: 40px;
+}
+.e
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 20px;
+  letter-spacing: 10px;
+  border-radius: 10px;
+}
+
+label{
+  background-color: whitesmoke;
+  color: green;
+  padding: 6px;
+  border-radius: 6px;
+}
+
